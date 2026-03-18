@@ -1,0 +1,1 @@
+- [feedback_tailwind.md](feedback_tailwind.md) — Preferência por Tailwind mínimo e legível

@@ -1,11 +1,11 @@
 function Intro() {
   return (
-    <>
-      <div className="flex-col justify-center align-middle text-center text-white">
-        <h1>Bem vindo NAME</h1>
-        <p>Viu algo legal hoje?</p>
-      </div>
-    </>
+    <div className="px-8 pt-10 pb-6">
+      <h1 className="text-4xl font-bold text-white">
+        Olá, <span className="text-red-500">NAME</span> 👋
+      </h1>
+      <p className="text-zinc-400 text-lg mt-2">Viu algo legal hoje? Registre aqui.</p>
+    </div>
   );
 }
 
